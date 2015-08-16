@@ -1,0 +1,37 @@
+# Created by https://www.gitignore.io/api/r
+
+### R ###
+# History files
+.Rhistory
+.Rapp.history
+
+# Example code in package build process
+*-Ex.R
+
+# RStudio files
+.Rproj.user/
+
+# produced vignettes
+vignettes/*.html
+vignettes/*.pdf
+
+# OAuth2 token, see https://github.com/hadley/httr/releases/tag/v0.3
+.httr-oauth
+
+R Programming/Assignment 3/.Rproj.user/D6D7D1F5/sdb/s-442F7752/20433353
+
+R Programming/Assignment 1/rprog-data-specdata.zip
+
+*.zip
+
+R Programming/Assignment 3/.Rproj.user/D6D7D1F5/sdb/s-442F7752/20433353
+
+R Programming/Assignment 3/.Rproj.user/D6D7D1F5/sdb/s-442F7752/83ABA419
+
+R Programming/Assignment 3/.Rproj.user/D6D7D1F5/sdb/s-442F7752/8964816A
+
+R Programming/Assignment 3/.Rproj.user/D6D7D1F5/sdb/s-442F7752/91164E6F
+
+R Programming/Assignment 3/.Rproj.user/D6D7D1F5/sdb/s-442F7752/lock_file
+
+*.zip
