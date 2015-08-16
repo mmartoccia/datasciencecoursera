@@ -1,0 +1,18 @@
+{
+    "contents" : "best <- function(state, outcome) {\n  ## Read outcome data\n  ## Check that state and outcome are valid\n  ## Return hospital name in that state with lowest 30-day death\n  ## rate\n  \n  source(\"sortHospitalsByOutcome.R\")\n  head(sortHospitalsByOutcome(state, outcome), 1)\n}",
+    "created" : 1439758007525.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2056966273",
+    "id" : "83ABA419",
+    "lastKnownWriteTime" : 1439758027,
+    "path" : "~/GitHub/datasciencecoursera/R Programming/Assignment 3/best.R",
+    "project_path" : "best.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "type" : "r_source"
+}
